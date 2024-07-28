@@ -141,7 +141,6 @@
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uasset",
-				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Projectiles/Player/BP_Projectile_Player_Regular.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Projectiles/Player/BP_Player_Projectile_Base.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Projectiles/Player/BP_Player_Projectile_Regular.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Projectiles/BP_Projectile_Base.uasset",
@@ -153,6 +152,8 @@
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/VFX/BP_VFX_ShotHit.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Fx/explosion/explosion__Loop.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Fx/player-shoot/player-shoot_____Loop.uasset",
+				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Inputs/InputActions/IA_Aim.uasset",
+				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Projectiles/Player/BP_Projectile_Player_Regular.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/PaperAssets/Characters/Player/Frames/Idle/Player_Idle.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Player/AnimSequences/Shoot.uasset",
 				"D:/ExperimentBox/Unreal/CollegeProjects/SideScroller/SideScroller240724/Content/Blueprints/Player/AnimSequences/Damage.uasset"
